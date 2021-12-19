@@ -1,4 +1,4 @@
-Hola me llamo Diego Diaz. Soy programador web full stack. Certificado por Digital House. 
+Hola me llamo Diego Diaz. Soy Programador Web Full Stack. Certificado por Digital House. 
 Soy un apasionado por el mundo de la programacion. Tengo conocimiento en las siguientes tecnologias:
 
 #HTML5 #CSS3 #NODEJS #JAVASCRIPT #APIS #BOOTSTRAP #EXPRESS #MYSQL #SEQUELIZE #REACT

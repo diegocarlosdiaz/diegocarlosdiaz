@@ -3,7 +3,7 @@ Soy un apasionado por el mundo de la programacion. Tengo conocimiento en las sig
 
 #HTML5 #CSS3 #NODEJS #JAVASCRIPT #APIS #BOOTSTRAP #EXPRESS #MYSQL #SEQUELIZE #REACT #INGLES-AVANZADO
 
-PROYECTO INTEGRADOR DIGITAL HOUSE: https://github.com/Gonzaloherenu/grupo_7_ulmen
+PROYECTO INTEGRADOR DIGITAL HOUSE (metodologia SCRUM): https://github.com/Gonzaloherenu/grupo_7_ulmen
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocarlosdiaz)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,9 +1,4 @@
-Hola me llamo Diego Diaz. Soy Programador Web Full Stack. Certificado por Digital House. 
-Soy un apasionado por el mundo de la programacion. Tengo conocimiento en las siguientes tecnologias:
-
-#HTML5 #CSS3 #NODEJS #JAVASCRIPT #APIS #BOOTSTRAP #EXPRESS #MYSQL #SEQUELIZE #REACT #INGLES-AVANZADO
-
-PROYECTO INTEGRADOR DIGITAL HOUSE (metodologia SCRUM): https://github.com/Gonzaloherenu/grupo_7_ulmen
+Hola me llamo Diego Diaz. Soy Programador Web Full Stack.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegocarlosdiaz)](https://github.com/anuraghazra/github-readme-stats)
